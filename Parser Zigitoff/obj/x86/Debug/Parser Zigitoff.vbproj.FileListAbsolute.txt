@@ -1,0 +1,17 @@
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Zigitoff\Parser Zigitoff\bin\Debug\KAP.exe.config
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.xml
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.pdb
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\bin\Debug\KAP.exe.config
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.exe
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.pdb
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\bin\Debug\KAP.exe
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\bin\Debug\KAP.pdb
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\bin\Debug\KAP.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.Form1.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\Parser Zigitoff.vbproj.GenerateResource.Cache
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.analiz.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\KAP.graf.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\Parser Zigitoff\Parser Zigitoff\obj\x86\Debug\Parser Zigitoff.vbprojResolveAssemblyReference.cache

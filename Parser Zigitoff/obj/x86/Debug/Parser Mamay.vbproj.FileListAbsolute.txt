@@ -1,0 +1,34 @@
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\bin\Debug\Parser Mamay.exe
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\bin\Debug\Parser Mamay.pdb
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\bin\Debug\Parser Mamay.xml
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser.Form1.resources
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser.Resources.resources
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser Mamay.exe
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser Mamay.xml
+D:\Documents and Settings\Николай\мои документы\visual studio 2010\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser Mamay.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser Mamay.vbproj.GenerateResource.Cache
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\Parser Mamay.vbprojResolveAssemblyReference.cache
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\bin\Debug\KAP.exe.config
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\bin\Debug\KAP.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\bin\Debug\KAP.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\bin\Debug\KAP.xml
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.Form1.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.xml
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.pdb
+F:\Parser Mamay\Parser Mamay\bin\Debug\KAP.exe.config
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.exe
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.xml
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.pdb
+F:\Parser Mamay\Parser Mamay\bin\Debug\KAP.exe
+F:\Parser Mamay\Parser Mamay\bin\Debug\KAP.pdb
+F:\Parser Mamay\Parser Mamay\bin\Debug\KAP.xml
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.Form1.resources
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\KAP.Resources.resources
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Parser Mamay\Parser Mamay\obj\x86\Debug\GenerateResource.write.1.tlog

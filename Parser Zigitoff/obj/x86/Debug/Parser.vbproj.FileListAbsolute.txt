@@ -1,0 +1,11 @@
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\bin\Debug\Parser.exe
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\bin\Debug\Parser.pdb
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\bin\Debug\Parser.xml
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\Parser.Form1.resources
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\Parser.Resources.resources
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\Parser.exe
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\Parser.xml
+D:\Documents and Settings\Николай\Local Settings\Application Data\Temporary Projects\Parser\obj\x86\Debug\Parser.pdb
